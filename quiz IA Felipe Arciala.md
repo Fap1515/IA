@@ -79,7 +79,9 @@ Pick **one** scenario and write a short “incident report” (max 10 lines) inc
 - Probable cause
 - Immediate mitigation
 - Longer-term fix
+- 
 Scenario 2:
+
 The training loss plot shows an oscillatory pattern, whereas a decreasing curve would be expected as prediction error is reduced through parameter optimization. The most likely cause is a poor hyperparameter choice, particularly an excessively large step size in mini-batch gradient descent, which can lead to overshooting. Although a very small batch size could introduce noise, the consistent oscillation makes this explanation less likely.
 
 The immediate fix is to reduce the step size. A two-level factorial experiment (2^𝑘) varying step size and batch size could help determine whether one or both hyperparameters are responsible and guide the selection of better values.
