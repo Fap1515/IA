@@ -87,6 +87,7 @@ The immediate fix is to reduce the step size. A two-level factorial experiment (
 As a longer-term solution, switching to adaptive optimizers such as RMSProp or Adam may help, since they dynamically scale updates using moving averages of past gradients, improving stability and convergence. The fix can be validated by recomputing the training and validation loss curves to confirm a smooth downward trend and good generalization.
 
 **References**
+
 Bishop, C. M., & Bishop, H. (2024). Deep Learning: Foundations and Concepts. Springer.
 
 Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
