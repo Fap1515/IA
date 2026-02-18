@@ -98,4 +98,4 @@ Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (
 Martínez Vargas, J. D. (n.d.). ArtificialIntelligenceIM [Repositorio de GitHub]. GitHub.
 https://github.com/jdmartinev/ArtificialIntelligenceIM
 
-OpenAI. (2025). ChatGPT (GPT-5.2) [Large language model]. https://chat.openai.com
+OpenAI. (2025). ChatGPT (GPT-5.2) [Research, Comprehension, and Writing Assistant]. https://chat.openai.com
